@@ -1,2 +1,2 @@
 # PDF-Merge-Tool
-This is writed by C# language and use PDFSharp library.
+A pdf merge tool written with C#.
